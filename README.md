@@ -1,5 +1,5 @@
 La información requerida para este laboratio esta almacenada en el archivo 
-"data.zip" ubicado en la carpeta raíz. Descomprima este archivo. 
+"data.zip" ubicado en la carpeta raíz. Descomprima este archivo.
 
 Como resultado obtendra la siguiente estructura de archivos:
 
@@ -40,7 +40,6 @@ A partir de esta informacion debe generar dos archivos llamados "train_dataset.c
 
 Cada archivo tendria una estructura similar a la siguiente:
 
-```
 |    | phrase                                                                                                                                                                 | target   |
 |---:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------|
 |  0 | Cardona slowed her vehicle , turned around and returned to the intersection , where she called 911                                                                     | neutral  |
@@ -48,5 +47,4 @@ Cada archivo tendria una estructura similar a la siguiente:
 |  2 | Exel is headquartered in Mantyharju in Finland                                                                                                                         | neutral  |
 |  3 | Both operating profit and net sales for the three-month period increased , respectively from EUR16 .0 m and EUR139m , as compared to the corresponding quarter in 2006 | positive |
 |  4 | Tampere Science Parks is a Finnish company that owns , leases and builds office properties and it specialises in facilities for technology-oriented businesses         | neutral  |
-```
 
